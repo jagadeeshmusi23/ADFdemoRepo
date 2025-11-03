@@ -1,0 +1,9 @@
+{
+	"name": "testinggithubproject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d47ca2f-8972-4abf-b040-b62f7aa8e11b",
+		"tenantId": "38a0ac05-18f8-414d-8bfe-45fb845c8143"
+	}
+}
