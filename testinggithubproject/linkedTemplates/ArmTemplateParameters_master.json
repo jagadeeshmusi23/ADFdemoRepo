@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "testinggithubproject"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
